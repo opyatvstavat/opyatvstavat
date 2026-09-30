@@ -20,9 +20,9 @@
 ### Боти та веб
 Telegram-ботів та автоматизацію роблю для себе та на замовлення. Відкриті проєкти:
 
-* **[TGSvodka](https://github.com/OcherednRra/tgsvodka-miniapp)**: TikTok-стрічка для Telegram-каналів: пости з усіх підписок в одному Mini App, гортаєш свайпом, лайкнуті зберігаються окремо. Telethon, FastAPI, SQLite, один сервіс на Railway.
-* **[Toolbox Bot](https://github.com/OcherednRra/toolboxbot)**: присилає безкоштовні ассети з Roblox Creator Store і в одне натискання зберігає їх у Roblox-акаунт. aiogram, Roblox API.
-* **[Інтерактивна мапа військової історії України](https://github.com/OcherednRra/InteractiveHistoryOfUkraineMap)**: дипломний проєкт КПІ. React, Express, JWT.
+* **[TGSvodka](https://github.com/opyatvstavat/tgsvodka-miniapp)**: TikTok-стрічка для Telegram-каналів: пости з усіх підписок в одному Mini App, гортаєш свайпом, лайкнуті зберігаються окремо. Telethon, FastAPI, SQLite, один сервіс на Railway.
+* **[Toolbox Bot](https://github.com/opyatvstavat/toolboxbot)**: присилає безкоштовні ассети з Roblox Creator Store і в одне натискання зберігає їх у Roblox-акаунт. aiogram, Roblox API.
+* **[Інтерактивна мапа військової історії України](https://github.com/opyatvstavat/InteractiveHistoryOfUkraineMap)**: дипломний проєкт КПІ. React, Express, JWT.
 
 ---
 
